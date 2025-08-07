@@ -1,3 +1,4 @@
+# copied from https://wyliemaster.github.io/gddocs/#/topics/levelstring_encoding_decoding
 import base64
 import gzip
 import zlib
